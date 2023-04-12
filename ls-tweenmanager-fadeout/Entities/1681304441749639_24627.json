@@ -1,0 +1,39 @@
+{
+    "1681304441747061:24626": {
+        "IFileManager": {
+            "path": "Files/File_1681304441747061_24626"
+        }
+    },
+    "1681304441749639:24627": {
+        "IResourceController": {
+            "name": "Alpha material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681304441749644:24628",
+            "fileId": "1681304441747061:24626",
+            "originalId": "1681304441800322:24642",
+            "publicId": "1681304442551595:24865",
+            "expected_hash": "975815891b55e12a43f3a8051811f25a"
+        },
+        "IResourceManager": {
+            "uid": "1681304441749644:24628",
+            "name": "Files/File_1681304441747061_24626",
+            "flags": 1
+        }
+    },
+    "1681304441800322:24642": {
+        "IFileManager": {
+            "path": "Files/File_1681304441800322_24642.lsmat"
+        }
+    },
+    "1681304442551595:24865": {
+        "IResourceController": {
+            "public": {
+                "path": "Alpha material.lsmat",
+                "hash": "4cf3733a19eb98c904be7d55b84989fa"
+            }
+        }
+    }
+}

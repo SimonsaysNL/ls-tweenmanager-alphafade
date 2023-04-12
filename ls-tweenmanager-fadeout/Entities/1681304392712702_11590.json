@@ -1,0 +1,33 @@
+{
+    "1681304392709442:11589": {
+        "IFileManager": {
+            "path": "Files/File_1681304392709442_11589.js"
+        }
+    },
+    "1681304392712702:11590": {
+        "IResourceController": {
+            "name": "TweenColor",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681304392712721:11591",
+            "fileId": "1681304392709442:11589",
+            "publicId": "1681304392762381:11601",
+            "expected_hash": "362a443b3e48b8de06db70afb3dccab1"
+        },
+        "IResourceManager": {
+            "uid": "1681304392712721:11591",
+            "name": "Files/File_1681304392709442_11589.js",
+            "flags": 1
+        }
+    },
+    "1681304392762381:11601": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenColor.js",
+                "hash": "362a443b3e48b8de06db70afb3dccab1"
+            }
+        }
+    }
+}
